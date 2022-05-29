@@ -1,7 +1,7 @@
 # Daniel_Portfolio
 Project portfolio
 
-# Algorithmic Trading Bot / Expert Advisors:
+# [Algorithmic Trading Bot / Expert Advisors:](https://github.com/urinethrower/Project-Deities)
 * Developed 3 trading strategies navigating various markets including forex, stock indices, precious metals and Bitcoin (CFDs)
 * Backtested over 1000 different indicators and settings, and customised over 20 algorithms of existing indicators
 * Strategies including trend-following, confluence trading, grid trading (without Martingale)
