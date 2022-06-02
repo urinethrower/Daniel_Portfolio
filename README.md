@@ -8,6 +8,6 @@ Project portfolio
 * Risk management system is implemented virtually to avoid stoploss hunting or other broker manipulations
 * Advanced features including: hedging, equity curve trading, trade filters, dashboard, etc.
 * Created a dynamically linked library (.dll) to handle loop-intensive functions on C++ (e.g. real-time optimisations) and return values to main bot
-<img src="https://github.com/urinethrower/Project-Deities/blob/main/img/Demeter_snapshot.JPG" width="224" height="139.33" />  
+<img src="https://github.com/urinethrower/Project-Deities/blob/main/img/Demeter_snapshot.JPG" alt="https://github.com/urinethrower/Project-Deities/blob/main/img/Demeter_snapshot.JPG" width="224" height="139.33"></img>  
   
 # [Classic Titanic Dataset with a C++ twist:](https://github.com/urinethrower/Project-Titanics)
