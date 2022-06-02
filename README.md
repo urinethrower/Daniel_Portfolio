@@ -9,5 +9,6 @@ Project portfolio
 * Advanced features including: hedging, equity curve trading, trade filters, dashboard, etc.
 * Created a dynamically linked library (.dll) to handle loop-intensive functions on C++ (e.g. real-time optimisations) and return values to main bot
 ![image1](https://github.com/urinethrower/Project-Deities/blob/main/img/Demeter_snapshot.JPG | width=112px height=69.67px)
+<img src="https://github.com/urinethrower/Project-Deities/blob/main/img/Demeter_snapshot.JPG" width="112" height="69.67" />  
   
 # [Classic Titanic Dataset with a C++ twist:](https://github.com/urinethrower/Project-Titanics)
