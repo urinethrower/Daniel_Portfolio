@@ -9,4 +9,4 @@ Project portfolio
 * Advanced features including: hedging, equity curve trading, trade filters, dashboard, etc.
 * Created a dynamically linked library (.dll) to handle loop-intensive functions on C++ (e.g. real-time optimisations) and return values to main bot
   
-# [Classic Titanic Dataset with a C++ twist:]
+# [Classic Titanic Dataset with a C++ twist:](Project-Titanics)
