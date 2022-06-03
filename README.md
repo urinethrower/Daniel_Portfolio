@@ -9,7 +9,7 @@ Project portfolio
 * Advanced features including: hedging, equity curve trading, trade filters, dashboard, etc.
 * Created a dynamically linked library `.dll` to handle loop-intensive functions on C++ (e.g. real-time optimisations) and return values to main bot
   
-<img src="https://github.com/urinethrower/Project-Deities/blob/main/img/Demeter_snapshot.JPG" alt="https://github.com/urinethrower/Project-Deities/blob/main/img/Demeter_snapshot.JPG" width="668" height="417"></img>  
+<img src="https://raw.githubusercontent.com/urinethrower/Project-Deities/main/img/Demeter_snapshot.JPG" alt="https://raw.githubusercontent.com/urinethrower/Project-Deities/main/img/Demeter_snapshot.JPG" width="668" height="417"></img>  
   
 # [Random forest model on Titanics dataset: R modelled, C++ executed](https://github.com/urinethrower/Project-Titanics)
 * This is a feasibility study towards leveraging machine learning models in quantitative trading in the future
