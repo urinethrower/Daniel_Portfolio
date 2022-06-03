@@ -11,7 +11,7 @@ Project portfolio
   
 <img src="https://github.com/urinethrower/Project-Deities/blob/main/img/Demeter_snapshot.JPG" alt="https://github.com/urinethrower/Project-Deities/blob/main/img/Demeter_snapshot.JPG" width="668" height="417"></img>  
   
-# [Random forest model on Titanics dataset: build in R, executed in C++](https://github.com/urinethrower/Project-Titanics)
+# [Random forest model on Titanics dataset: modelled in R, executed in C++](https://github.com/urinethrower/Project-Titanics)
 * This is a feasibility study towards leveraging machine learning models in quantitative trading in the future
 * Random forest model was chosen mainly because of its generally lower risk of over-fitting for small datasets, and it is great for performing feature-based analysis
 * Classic Titanics dataset is used for simplicity, 89% accuracy was recorded after minimal tuning hyper parameters
