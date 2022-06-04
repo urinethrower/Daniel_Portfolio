@@ -9,7 +9,7 @@ Project portfolio
 * Advanced features including: hedging, equity curve trading, trade filters, dashboard, etc.
 * Created a dynamically linked library `.dll` to handle loop-intensive functions on C++ (e.g. real-time optimisations) and return values to main bot
   
-<img src="https://raw.githubusercontent.com/urinethrower/Project-Deities/main/img/Demeter_snapshot.JPG" alt="https://raw.githubusercontent.com/urinethrower/Project-Deities/main/img/Demeter_snapshot.JPG" width="668" height="417"></img>  
+<img src="https://raw.githubusercontent.com/urinethrower/Project-Deities/main/img/Demeter_snapshot.JPG" alt="https://raw.githubusercontent.com/urinethrower/Project-Deities/main/img/Demeter_snapshot.JPG" width="668" height="417">  
   
 # [Random forest model on Titanics dataset: R modelled, C++ executed](https://github.com/urinethrower/Project-Titanics)
 * This is a feasibility study towards leveraging machine learning models in quantitative trading in the future
@@ -17,7 +17,8 @@ Project portfolio
 * Classic Titanics dataset is used for simplicity, 89% accuracy was recorded after minimal tuning hyper parameters
 * Model is first built in R, output to flat file, embedded to C++, compiled as `.dll` and imported into MQL4
 * Applying multi-threading to further speed up the execution on C++
-  
-<img src="https://user-images.githubusercontent.com/106392189/171841472-1ef4d16e-7a55-4171-a61a-f2797e2e7fa0.png" alt="https://user-images.githubusercontent.com/106392189/171841472-1ef4d16e-7a55-4171-a61a-f2797e2e7fa0.png" width="410" height="397"></img>
-<img src="https://user-images.githubusercontent.com/106392189/171841501-3398e479-3406-4085-a0d0-7fc7933f2a8e.png" alt="https://user-images.githubusercontent.com/106392189/171841501-3398e479-3406-4085-a0d0-7fc7933f2a8e.png" width="367" height="397">  
+<div>  
+<img src="https://user-images.githubusercontent.com/106392189/171841472-1ef4d16e-7a55-4171-a61a-f2797e2e7fa0.png" alt="https://user-images.githubusercontent.com/106392189/171841472-1ef4d16e-7a55-4171-a61a-f2797e2e7fa0.png" width="410" height="397">
+<img src="https://user-images.githubusercontent.com/106392189/171841501-3398e479-3406-4085-a0d0-7fc7933f2a8e.png" alt="https://user-images.githubusercontent.com/106392189/171841501-3398e479-3406-4085-a0d0-7fc7933f2a8e.png" width="367" height="397">
+</div>
   
