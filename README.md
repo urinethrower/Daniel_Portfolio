@@ -29,6 +29,6 @@ Project portfolio
 * 15 years worth of gold price was modelled with a R<sup>2</sup> value of 0.87 using fundamentally-sound macroeconomic data
   
 <div>
-![linear model](https://user-images.githubusercontent.com/106392189/172914317-112b4cbe-3886-4eb2-aef5-bc9517590a02.png)
-![multi reg model](https://user-images.githubusercontent.com/106392189/172914325-e4a0a4a1-10a9-4e12-85bd-3b1b5bca2b58.png)
+<img src="https://user-images.githubusercontent.com/106392189/172914317-112b4cbe-3886-4eb2-aef5-bc9517590a02.png">
+<img src="https://user-images.githubusercontent.com/106392189/172914325-e4a0a4a1-10a9-4e12-85bd-3b1b5bca2b58.png">
 </div>
