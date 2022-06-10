@@ -26,7 +26,8 @@ Project portfolio
 * Linear regression model, and multivariate regression model built on Python for gold price valuation
 * Data collected from FRED and EIA by calling API and parsing JSON objects
 * Data processed using pandas, modelled using scikit-learn and visualised with seaborn
-* 15 years worth of gold price was modelled with a R<sup>2</sup> value of 0.87 using fundamentally-sound macroeconomic data
+* Selection of model predictors were based on both fundamental and technical backgrounds
+* 15 years worth of gold price was modelled with a R<sup>2</sup> value of 0.87
   
 <div>
 <img src="https://user-images.githubusercontent.com/106392189/172914317-112b4cbe-3886-4eb2-aef5-bc9517590a02.png">
