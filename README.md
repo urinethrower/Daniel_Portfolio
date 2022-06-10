@@ -22,3 +22,13 @@ Project portfolio
 <img src="https://user-images.githubusercontent.com/106392189/171841501-3398e479-3406-4085-a0d0-7fc7933f2a8e.png" alt="https://user-images.githubusercontent.com/106392189/171841501-3398e479-3406-4085-a0d0-7fc7933f2a8e.png" width="367" height="397">
 </div>
   
+# [Gold Regression Models](https://github.com/urinethrower/gold_regression)
+* Linear regression model, and multivariate regression model built on Python for gold price valuation
+* Data collected from FRED and EIA by calling API and parsing JSON objects
+* Data processed using pandas, modelled using scikit-learn and visualised with seaborn
+* 15 years worth of gold price was modelled with a R<sup>2</sup> value of 0.87 using fundamentally-sound macroeconomic data
+  
+<div>
+![linear model](https://user-images.githubusercontent.com/106392189/172914317-112b4cbe-3886-4eb2-aef5-bc9517590a02.png)
+![multi reg model](https://user-images.githubusercontent.com/106392189/172914325-e4a0a4a1-10a9-4e12-85bd-3b1b5bca2b58.png)
+</div>
