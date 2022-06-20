@@ -1,6 +1,6 @@
 # Daniel's Project Portfolio
-[Github Landing Page](https://github.com/uthrower)
-[LinkedIn](http://www.linkedin.com/in/danielklchan)
+[Github Landing Page](https://github.com/uthrower)  
+[LinkedIn](http://www.linkedin.com/in/danielklchan)  
 <danielkl.chan@mensa.org.hk>
   
 # [Algorithmic Trading Bot / Expert Advisors:](https://github.com/urinethrower/Project-Deities)
