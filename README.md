@@ -1,5 +1,7 @@
-# Daniel_Portfolio
-Project portfolio
+# Daniel's Project Portfolio
+[Github Landing Page](https://github.com/uthrower)
+[LinkedIn](http://www.linkedin.com/in/danielklchan)
+<danielkl.chan@mensa.org.hk>
   
 # [Algorithmic Trading Bot / Expert Advisors:](https://github.com/urinethrower/Project-Deities)
 * Developed 3 trading strategies navigating various markets including forex, stock indices, precious metals and Bitcoin (CFDs)
